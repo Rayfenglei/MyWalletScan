@@ -25,7 +25,6 @@ npm run dev
 
 ## 使用
 
-https://bitboxtools.github.io/
 
 
 
